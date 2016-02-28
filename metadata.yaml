@@ -1,0 +1,29 @@
+_repo: Little-Citizens-The-Humours-of-School-Life_6662
+creator:
+  author:
+    agent_name: Kelly, Myra
+    alias: Macnaughton, Mrs. Allan
+    birthdate: 1876
+    deathdate: 1910
+    gutenberg_agent_id: '2137'
+    url: http://www.gutenberg.org/2009/agents/2137
+description: ''
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6662'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Students -- New York (State) -- New York -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'United States -- Social life and customs -- 20th century -- Fiction'
+- !lcc 'PS'
+tableOfContents: A little matter of real estate -- The uses of adversity -- A Christmas
+  present for a lady -- Love among the blackboards -- Morris and the Honourable Tim
+  -- When a man's widowed -- H.R.H. the Prince of Hester Street -- The land of heart's
+  desire -- A passport to paradise -- The touch of nature.
+title: 'Little Citizens: The Humours of School Life'
+url: http://www.gutenberg.org/ebooks/6662
